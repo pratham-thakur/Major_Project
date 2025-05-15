@@ -46,7 +46,7 @@ $city_weather_id=strval($district_weather_id);
 
 
 date_default_timezone_set("Asia/Kolkata");
-$apiKey = "e1f90bf513d3d663ffa36a1c120a0ae4"; //Your API KEY 
+$apiKey = ""; //Your API KEY 
 $cityId = $city_weather_id;
 
 
