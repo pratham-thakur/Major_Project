@@ -2,16 +2,15 @@
         <div class="container">
                     <div class="row">         
                 <div class="col-4 col-md-2   align-self-center">				
-                    <img class="align-text-center img-fluid"  src="../assets/img/footer-logo.png" />               
+                    <img class="align-text-center img-fluid"  src="assets/img/footer-logo.png" />               
                 </div>				
                 <div class="offset-sm-2 col-5 ">
                     <h5>Our Address</h5>
                     <address>
 		              Jaypee University of Information Technology<br>
-		              Solan, HP<br>		              
+		              Soln,HP <br>		              
 		              <div class="btn-group text-center" role="group">
                     <a role="button" class="btn btn-primary" href="tel:+919622415027"><i class="fa fa-phone"></i> Call</a>
-                    
                     <a role="button" class="btn btn-success" href="mailto:211380@juitsolan.in"> <i class="fa fa-envelope-o"></i> Email</a>
                 </div>
 		           </address>
@@ -19,7 +18,7 @@
                 <div class="col-12 col-md-3 align-self-center">
             <div class="social-network  text-center">
 				           
-       <button target="_blank" href="/" rel="nofollow" class="btn btn-icon-only btn-linkedin rounded-circle" data-toggle="tooltip" data-original-title="Mail Us">
+       <button target="_blank" href="mailto:211380@juitsolan.in" rel="nofollow" class="btn btn-icon-only btn-linkedin rounded-circle" data-toggle="tooltip" data-original-title="Mail Us">
             <span class="btn-inner--icon"><i class="fas fa-envelope"></i></span>
           </button>
           <button target="_blank" href="/" rel="nofollow" class="btn btn-icon-only btn-twitter rounded-circle" data-toggle="tooltip" data-original-title="Follow us">
@@ -42,7 +41,7 @@
 		   <hr>
            <div class="row justify-content-center">             
                      <div class="col-auto">					
-                    <p>&copy; Copyright 2024  Fertilisense, All Rights Reserved </p>
+                    <p>&copy; Copyright 2024 Fertilisense, All Rights Reserved </p>
                 </div>
            </div>
         </div>
@@ -65,5 +64,3 @@
 
 
 	<script src="https://use.fontawesome.com/ee1c3da296.js"></script>
-	
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.js"></script>
