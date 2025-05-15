@@ -20,7 +20,7 @@ $query4 = "SELECT * from farmerlogin where email='$user_check'";
   
  <script>
   window.addEventListener("load", function() {
-    const endpoint = "https://newsapi.org/v2/everything?q=farmers&sortBy=popularity&apiKey=7ed28638a6a9486d9a4cb49169285c83";
+    const endpoint = "https://newsapi.org/v2/everything?q=farmers&sortBy=popularity&apiKey=";
     fetch(endpoint)
     .then(response => {
       if (!response.ok) {
