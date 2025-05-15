@@ -128,7 +128,7 @@ function clearContent(){
 }
 	
 const url = new URL(window.location.href);
-const apiKey = "sk-proj-KOPS3xaXHywoePGC6qmUT3BlbkFJbjHkdJnzcLCkj3edzqYP";   // Enter your apikey here
+const apiKey = "";   // Enter your apikey here
 const chatbox = $("#chatbox");
 const userInput = $("#userInput");
 const sendButton = $("#sendButton");
